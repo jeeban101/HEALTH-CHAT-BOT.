@@ -45,7 +45,7 @@ To run the Health-Chat-Bot on your local machine, follow these steps:
      python train.py
      ```
 
-5. The chatbot will start running, and you can interact with it by typing in your health-related queries.
+5. The chatbot will start running, and you can interact with it by typing in your health related queries.
 
 ## Contributing
 For now three people i.e Jeeban Bhagat, Ashutosh Raj and Aashish Kumar have completed this as course project.
