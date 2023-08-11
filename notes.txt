@@ -1,4 +1,5 @@
-Run the basic app:
+Run the basic app:-
+
 Step 1 -> Train the model by running train.py (Ctrl+Alt+Fn+F10 in pycharm)
 Step 2 -> Run chat.py and demo the interesting conversation
 
