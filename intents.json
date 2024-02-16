@@ -189,6 +189,11 @@
          "responses": ["It happens sometimes. Just relax and keep calm. Inhale and Exhale. And don't forget to drink a lot of water."],
          "context": [""]
     }
+         {"tag": "Emotions5",
+         "patterns": ["i start to feel emotional","i feel a little nervous"],
+         "responses": ["It happens sometimes. Just relax and keep calm. Inhale and Exhale. And don't forget to drink a lot of water."],
+         "context": [""]
+    }
     
 ]
 }
